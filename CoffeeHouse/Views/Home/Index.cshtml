@@ -1,0 +1,49 @@
+﻿@model ProductsListViewModel
+
+<header class="jumbotron-fluid  my-4">
+    <h1 class="display-3" p style="text-align:center"><strong>Night Sights Coffee Roasters</strong></h1>
+    <p class="lead" style="text-align:center"><em>Night Sights Coffee Roasters is a Veteran owned and operated coffee roasting company located in La Jolla, California. We provide only fair-trade organic coffee beans that are sourced from small lot growers.</em></p>
+</header>
+
+<div>
+    <img class="img mb-4" width="100%" src="images/6.jpg" alt="">
+</div>
+<div class="container-fluid row text-center" style="margin-right:0px;margin-left:0px;">
+    @foreach (var p in Model.Products)
+    {
+        <div class="container col-sm-3">
+            <div class="card h-100">
+                <img class="card-img-top" src="//cdn.shopify.com/s/files/1/2220/0129/products/ceremony-product-antithesis-2_480x480.jpg?v=1563299278" alt="">
+                <div class="card-body">
+                    <h4 class="card-title">@p.CoffeeTitle</h4>
+                    <p class="card-text">@p.Description</p>
+                    <p class="card-text">@p.TastingNotes</p>
+                    <span class="badge badge-pill badge-primary">
+                        <small>@p.Price.ToString("c")</small>
+                    </span>
+                </div>
+                <div class="card-footer">
+                    <button type="submit" href="Cart" class="btn btn-primary">Add to Cart</button>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+<div page-model="@Model.PagingInfo" page-action="Index" page-classes-enabled="true"
+     page-class="btn" page-class-normal="btn-outline-dark"
+     page-class-selected="btn-primary" class="btn-group pull-right m-1">
+</div>
+
+<div>
+    <img class="img-responsive mt-4" width="100%" src="images/12.jpg" alt="">
+</div>
+
+    </div>
+<!-- /.container -->
+<!-- Footer -->
+<footer class="py-5 bg-dark">
+    <div class="container">
+        <p class="m-0 text-center text-white">Copyright &copy; Night Sights Coffee Roasters 2020</p>
+    </div>
+    <!-- /.container -->
+</footer>

@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "defaultProvider": "unpkg",
+  "libraries": [
+    {
+      "library": "startbootstrap-heroic-features@4.2.2",
+      "destination": "wwwroot/startbootstrap-heroic-features/"
+    }
+  ]
+}

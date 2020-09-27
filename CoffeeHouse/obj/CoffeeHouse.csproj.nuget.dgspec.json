@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Chest\\source\\repos\\CoffeeHouse\\CoffeeHouse.csproj": {}
+    "C:\\Users\\Chest\\Documents\\GitHub\\CoffeeHouseAlternateVersion\\CoffeeHouse\\CoffeeHouse.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Chest\\source\\repos\\CoffeeHouse\\CoffeeHouse.csproj": {
+    "C:\\Users\\Chest\\Documents\\GitHub\\CoffeeHouseAlternateVersion\\CoffeeHouse\\CoffeeHouse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Chest\\source\\repos\\CoffeeHouse\\CoffeeHouse.csproj",
+        "projectUniqueName": "C:\\Users\\Chest\\Documents\\GitHub\\CoffeeHouseAlternateVersion\\CoffeeHouse\\CoffeeHouse.csproj",
         "projectName": "CoffeeHouse",
-        "projectPath": "C:\\Users\\Chest\\source\\repos\\CoffeeHouse\\CoffeeHouse.csproj",
+        "projectPath": "C:\\Users\\Chest\\Documents\\GitHub\\CoffeeHouseAlternateVersion\\CoffeeHouse\\CoffeeHouse.csproj",
         "packagesPath": "C:\\Users\\Chest\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Chest\\source\\repos\\CoffeeHouse\\obj\\",
+        "outputPath": "C:\\Users\\Chest\\Documents\\GitHub\\CoffeeHouseAlternateVersion\\CoffeeHouse\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Chest\\AppData\\Roaming\\NuGet\\NuGet.Config",

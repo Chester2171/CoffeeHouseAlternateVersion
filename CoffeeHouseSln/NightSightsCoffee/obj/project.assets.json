@@ -5727,11 +5727,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Chest\\Documents\\Night Sights Coffee\\CoffeeHouseSln\\NightSightsCoffee\\NightSightsCoffee.csproj",
+      "projectUniqueName": "C:\\Users\\Chest\\Documents\\GitHub\\CoffeeHouseAlternateVersion\\CoffeeHouseSln\\NightSightsCoffee\\NightSightsCoffee.csproj",
       "projectName": "NightSightsCoffee",
-      "projectPath": "C:\\Users\\Chest\\Documents\\Night Sights Coffee\\CoffeeHouseSln\\NightSightsCoffee\\NightSightsCoffee.csproj",
+      "projectPath": "C:\\Users\\Chest\\Documents\\GitHub\\CoffeeHouseAlternateVersion\\CoffeeHouseSln\\NightSightsCoffee\\NightSightsCoffee.csproj",
       "packagesPath": "C:\\Users\\Chest\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Chest\\Documents\\Night Sights Coffee\\CoffeeHouseSln\\NightSightsCoffee\\obj\\",
+      "outputPath": "C:\\Users\\Chest\\Documents\\GitHub\\CoffeeHouseAlternateVersion\\CoffeeHouseSln\\NightSightsCoffee\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Chest\\AppData\\Roaming\\NuGet\\NuGet.Config",

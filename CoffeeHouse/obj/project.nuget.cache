@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "leB9GflJx4QllqqBuQWOjDz0n4qhwczd9czZj6oxlvu3Yrjqi1tDqBSJ6FUhNJjt9P7GpkN2uBBWVwCw2dro+Q==",
+  "dgSpecHash": "eawbyRfuXc1AE6oajyVrwHzLlROa8KVPdSz+vvn7gOkDrQrAjvtTa1Ok/DNC+an0Vym3ZmN7ia4XW0Ng5dQjGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Chest\\source\\repos\\CoffeeHouse\\CoffeeHouse.csproj",
+  "projectFilePath": "C:\\Users\\Chest\\Documents\\GitHub\\CoffeeHouseAlternateVersion\\CoffeeHouse\\CoffeeHouse.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Chest\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Chest\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

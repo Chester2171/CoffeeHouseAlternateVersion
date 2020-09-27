@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T9SDRaO/Vx8pOgbqyfrJ5qOtfQuTC6nIvUkmi3apA7MbuRakjMedOR86xE510s9AYEH40nQTKCUcuFjvzFG0WQ==",
+  "dgSpecHash": "APwzybDUgtfXziV8s9z+e9jVBaes5s7ZoIzomsyA1ubC5WuoMjPG8wckEupOqrdfftDd6sRTXMbzwuDXWDNFMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Chest\\Documents\\Night Sights Coffee\\CoffeeHouseSln\\NightSightsCoffee\\NightSightsCoffee.csproj",
+  "projectFilePath": "C:\\Users\\Chest\\Documents\\GitHub\\CoffeeHouseAlternateVersion\\CoffeeHouseSln\\NightSightsCoffee\\NightSightsCoffee.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Chest\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Chest\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
